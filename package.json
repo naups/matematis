@@ -1,14 +1,14 @@
 {
   "name": "matematis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ['math'],
+  "author": "Ahmad Nauval Syahputra",
   "license": "ISC",
-  "description": "",
+  "description": "Nodejs package for utilizing Indonesian statistics data mining through js",
   "dependencies": {
     "decimal.js": "^10.4.3",
     "fraction.js": "^4.3.7",
