@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "decimal.js": "^10.4.3",
     "mathjs": "^12.4.1"
   }
 }
